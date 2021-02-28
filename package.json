@@ -1,0 +1,19 @@
+{
+  "name": "rabeb",
+  "version": "1.0.0",
+  "description": "checkpoint ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rabeb",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.18"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
